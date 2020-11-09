@@ -2,6 +2,8 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: light-brown; icon-glyph: magic;
 
+// original by marcelrebmann/incidence.js
+
 // icon-color: deep-gray; icon-glyph: magic;
 // Licence: Robert Koch-Institut (RKI), dl-de/by-2-0
 // background file in icloud/scriptable
